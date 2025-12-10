@@ -12,7 +12,7 @@ public static void main(String args[]){
 //Output in Java   :  print , println , "\n"
 
 
-/*
+
 public class JavaBasics { 
     public static void main(String args[]){
         System.out.print("Lokesh kumawat");
@@ -21,7 +21,7 @@ public class JavaBasics {
 
 // boilerplate code 
 
-*/
+
 
 
 
@@ -152,7 +152,7 @@ public class JavaBasics{
         }
 
     } */
-
+/* 
     import java.util.*;
     public class JavaBasics {
         public static void main(String args []){
@@ -160,5 +160,4 @@ public class JavaBasics{
             String input =sc.next();
             System.out.println(input);
         }
-    } 
-    // kbgkhgfkhfjkgkh
+    } */
